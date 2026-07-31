@@ -21,13 +21,13 @@ This repository showcases my learning journey through the TryHackMe **Pre Securi
 
 | Module | Status |
 |---------|--------|
-| Introduction to Cyber Security | ⏳ |
-| Computer Fundamentals | ⏳ |
-| Operating Systems Basics | ⏳ |
-| Software Basics | ⏳ |
-| Network Fundamentals | ⏳ |
-| How The Web Works | ⏳ |
-| Attacks and Defenses | ⏳ |
+| Introduction to Cyber Security | ✅ |
+| Computer Fundamentals | ✅ |
+| Operating Systems Basics | ✅ |
+| Software Basics | ✅ |
+| Network Fundamentals | ✅ |
+| How The Web Works | ✅ |
+| Attacks and Defenses | ✅ |
 
 ---
 
@@ -46,23 +46,26 @@ This repository showcases my learning journey through the TryHackMe **Pre Securi
 
 ---
 
-## 🎯 Current Goal
+ ## 🎯 Current Goal
 
-Complete the **TryHackMe Pre Security** learning path while building a well-documented cybersecurity portfolio.
+Successfully completed the **TryHackMe Pre Security** learning path.
 
+I am currently continuing my cybersecurity journey with the **TryHackMe Cyber Security 101** learning path while expanding my practical skills and GitHub portfolio.
 ---
 
 ## 📜 Certificate
 
-The completion certificate will be added after successfully finishing the learning path.
+Successfully completed the **TryHackMe Pre Security** learning path.
+
+📄 The completion certificate is available in the **08-Certificate** folder.
 
 ---
 
+
 ## 🤝 Connect With Me
 
-- GitHub: (later)
-- LinkedIn: (later)
-
+- GitHub Profile: **pranavkundap2004-stack**
+- LinkedIn: *(Coming Soon)*
 ---
 
 ⭐ Thank you for visiting my repository.
