@@ -210,3 +210,13 @@ The next module explores how websites function, covering DNS, HTTP, web requests
 ---
 
 > 📌 This documentation reflects my personal understanding after completing the TryHackMe **Network Fundamentals** module.
+>
+> ## 🧭 Navigation
+
+⬅️ Previous Module: [Software Basics](../04-Software-Basics/)
+
+🏠 [Back to Repository Home](../README.md)
+
+➡️ Next Module: [How The Web Works](../06-How-The-Web-Works/)
+>
+> ---
