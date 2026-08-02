@@ -219,6 +219,16 @@ Understanding networking is one of the most important skills for every cybersecu
 >
 > ---
 
+## 🧭 Navigation
+
+⬅️ Previous Module: [Operating Systems Basics](../03-Operating-Systems-Basics/)
+
+🏠 [Back to Repository Home](../README.md)
+
+➡️ Next Module: [Network Fundamentals](../05-Network-Fundamentals/)
+>
+> ---
+
 ## 📖 References
 
 - TryHackMe - Pre Security Learning Path
