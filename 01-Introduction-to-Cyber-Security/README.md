@@ -102,3 +102,11 @@ These concepts provide the technical knowledge required for future cybersecurity
 ---
 
 ⭐ **This README reflects my own understanding after completing the TryHackMe Introduction to Cyber Security module.**
+
+---
+
+## 🧭 Navigation
+
+🏠 [Back to Repository Home](../README.md)
+
+➡️ Next Module: [Computer Fundamentals](../02-Computer-Fundamentals/)
