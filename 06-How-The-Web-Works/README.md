@@ -226,3 +226,15 @@ The final module introduces the CIA Triad, cryptography, offensive security, def
 ---
 
 > 📌 This documentation reflects my personal understanding after completing the TryHackMe **How The Web Works** module.
+>
+> ## 🧭 Navigation
+
+⬅️ Previous Module: [Network Fundamentals](../05-Network-Fundamentals/)
+
+🏠 [Back to Repository Home](../README.md)
+
+➡️ Next Module: [Attacks and Defenses](../07-Attacks-and-Defenses/)
+>
+> ---
+>
+> 
