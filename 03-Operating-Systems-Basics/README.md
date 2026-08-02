@@ -180,3 +180,13 @@ The next module introduces data representation, encoding, Python, JavaScript, an
 ---
 
 > 📌 This documentation reflects my personal understanding after completing the TryHackMe **Operating Systems Basics** module.
+>
+> ---
+
+## 🧭 Navigation
+
+⬅️ Previous Module: [Computer Fundamentals](../02-Computer-Fundamentals/)
+
+🏠 [Back to Repository Home](../README.md)
+
+➡️ Next Module: [Software Basics](../04-Software-Basics/)
