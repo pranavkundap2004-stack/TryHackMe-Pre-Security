@@ -213,3 +213,13 @@ The next stage of my learning journey focuses on expanding these foundations thr
 ---
 
 > 📌 This documentation reflects my personal understanding after completing the TryHackMe **Attacks & Defenses** module.
+>
+> ## 🧭 Navigation
+
+⬅️ Previous Module: [How The Web Works](../06-How-The-Web-Works/)
+
+🏠 [Back to Repository Home](../README.md)
+
+➡️ Next Module: [Certificate](../08-Certificate/)
+>
+> ---
