@@ -50,3 +50,11 @@ Building upon the concepts learned in this repository through practical labs and
 ---
 
 > 📌 Certificate earned through successful completion of the **TryHackMe Pre Security** learning path.[TryHackMe-Pre-Security-Certificate.pdf](https://github.com/user-attachments/files/30632741/TryHackMe-Pre-Security-Certificate.pdf)
+>
+> ## 🧭 Navigation
+
+⬅️ Previous Module: [Attacks and Defenses](../07-Attacks-and-Defenses/)
+
+🏠 [Back to Repository Home](../README.md)
+>
+> ---
