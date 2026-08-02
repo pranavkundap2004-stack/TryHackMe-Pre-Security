@@ -132,3 +132,13 @@ The next module introduces Windows and Linux operating systems, command-line int
 ---
 
 > 📌 This documentation reflects my personal understanding after completing the TryHackMe **Computer Fundamentals** module.
+>
+> ---
+
+## 🧭 Navigation
+
+⬅️ Previous Module: [Introduction to Cyber Security](../01-Introduction-to-Cyber-Security/)
+
+🏠 [Back to Repository Home](../README.md)
+
+➡️ Next Module: [Operating Systems Basics](../03-Operating-Systems-Basics/)
